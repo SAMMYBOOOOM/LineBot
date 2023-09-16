@@ -1,15 +1,15 @@
 # LineBot - School Management System with LINE Messaging Integration
 The LineBot is a student's personal project that functions as a teacher-student interaction and score/course management autoreply bot. It allows for seamless communication and management within a school environment using the LINE messaging app.
 
-#### Getting Started
+### Getting Started
 To set up and run the LineBot on your local environment, follow these instructions:
 
-#### Prerequisites
+### Prerequisites
 Node.js and npm: Ensure you have Node.js and npm (Node Package Manager) installed on your system. You can download and install them from the official website: Node.js.
 
 MySQL Database: You will need MySQL as your database server. You can install it locally or use a remote MySQL database.
 
-#### Installation
+### Installation
 Initialize Node.js Project: In your project directory, initialize a Node.js project and create a package.json file by running the following command:
 
 ```shell
@@ -49,16 +49,16 @@ Expose Your Local Server: To test the bot with LINE, you can use Ngrok to expose
 Usage
 With the LineBot set up, you have your own school management system that interacts via LINE. While the local web UI may be incomplete, it serves as a foundation for building out additional features and functionality.
 
-#### Contributing
+### Contributing
 Contributions are welcome! Feel free to open issues or pull requests to improve this project.
 
-#### License
+### License
 Currently not sure what it does.
 
-#### Acknowledgments
+### Acknowledgments
 Special thanks to the [LINE messaging platform](https://developers.line.biz/en/services/messaging-api/ "Line message api documentation") for providing tools and APIs for bot development.
 
-Author
+### Author
 Sam
 Contact
 If you have any questions or feedback, feel free to reach out to b11013112@uch.edu.tw.
